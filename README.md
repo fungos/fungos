@@ -2,7 +2,7 @@
 
 ### Projects Status
 
-[![Travis Build Status](https://travis-ci.org/crossuo/crossuo.svg?branch=master)](https://travis-ci.org/crossuo/crossuo) [**CrossUO** - An Ultima Online Open Source Client](https://github.com/crossuo/crossuo)
+[![CrossUO Status](https://github.com/crossuo/crossuo/actions/workflows/build.yml/badge.svg)](https://github.com/crossuo/crossuo/actions/workflows/build.yml)
 
-[![Build Status](https://travis-ci.org/fungos/cr.svg?branch=master)](https://travis-ci.org/fungos/cr) [**cr.h** - A single file header-only live reload for C](https://github.com/fungos/cr)
+[![cr.h Status](https://travis-ci.org/fungos/cr.svg?branch=master)](https://travis-ci.org/fungos/cr) [**cr.h** - A single file header-only live reload for C](https://github.com/fungos/cr)
 
